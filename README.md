@@ -84,4 +84,4 @@ This project is a survey application that allows users to log in, create surveys
 
 - **npm install**: Installs frontend. Do it at the root folder.
 - **npm start**: Starts the project.
-- There is installation for backend. Only Models/Controllers/Routes schema
+- There is NO installation for backend. Only Models/Controllers/Routes schema
